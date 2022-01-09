@@ -83,11 +83,33 @@ NB: Chapter 2 contains widgets, which unfortunately are not supported by Colab. 
 
 -------
 
+## Lesson=1
+https://course.fast.ai/videos/?lesson=1
+
+## Lesson=2
+https://course.fast.ai/videos/?lesson=2
+
+## Lesson=3
+https://course.fast.ai/videos/?lesson=3
 
 
+## Lesson=4
+https://course.fast.ai/videos/?lesson=4
+
+## Lesson=5
+https://course.fast.ai/videos/?lesson=5
+
+## Lesson=6
+https://course.fast.ai/videos/?lesson=6
+
+## Lesson=7
+https://course.fast.ai/videos/?lesson=7
 
 
+## Lesson=8
+https://course.fast.ai/videos/?lesson=8
 
+-------
 
 
 
